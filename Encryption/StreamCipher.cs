@@ -252,5 +252,6 @@ namespace Encryption
     }
 
     #endregion Methods
+
   }
 }
